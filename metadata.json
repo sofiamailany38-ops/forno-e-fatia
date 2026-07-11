@@ -1,0 +1,6 @@
+{
+  "name": "Forno & Fatia",
+  "description": "Site moderno, elegante e responsivo da pizzaria artesanal Forno & Fatia, com cardápio interativo, carrinho de compras funcional e finalização de pedidos via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
